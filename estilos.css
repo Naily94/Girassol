@@ -1,0 +1,518 @@
+head{
+    height: 200px;
+    padding: 20px;
+    width: 100%;
+    margin: 10px;
+}
+
+
+header{
+    background-color: aquamarine;
+    margin: 20px;   
+}
+.barradepesquisa, img{
+    float: left;
+    width: 110px;
+    height: 40px;
+    margin-left: 10px;
+    margin-top: 4px;
+    padding: 5px;
+}
+
+input{
+    display: flex;
+    width: 400px;
+    height: 30px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border: #dbd9d9;
+    margin-right: 30px;
+
+}
+
+.pesquisab img{
+    width: 18px;
+    height:19px;
+    padding: 5px;
+    margin: 3px;
+    margin-top: 10px;
+}
+
+.pesquisab{
+    display: flex;
+    float: left;
+    width: 650px;
+    height: 55px;
+    margin-left: 100px;
+    border-radius: 25px;
+    border: 1px solid #f0eded;
+    background-color: #fdf9f9;
+    margin-top: 20px;
+}
+
+.conf img{
+    display: flex;
+    float: left;
+    justify-content: center;
+    width: 25px;
+    height: 25px;
+    padding: 5px;
+    margin: 5px;
+    margin-top: 25px;
+    margin-bottom: -100px;
+    margin-left: 250px;
+}
+
+.configfoto img{
+    display: flex;
+    float: left;
+    width: 25px;
+    height: 25px;
+    padding: 5px;
+    margin: 5px;
+    margin-top: 25px;
+    margin-left: 300px;
+    
+}
+
+.fotoper img{
+    display: flex;
+    float: left;
+    width: 40px;
+    height: 40px;
+    border-radius: 24px;
+    padding: 5px;
+    margin: 5px;
+    margin-top: 20px;
+    
+}
+
+.botoes{
+    display: block;
+   float: left;
+   padding: 10px;
+   margin: 10px;
+   height: 20px;
+ 
+}
+
+button{
+    border-radius: 20px;
+    width: 100px;
+    height: 40px;
+    margin: 3px;
+    background-color: #fffbfb;
+    border: none;
+    font-size: 13px;
+    border: 1px solid #dbd9d9;
+}
+a:hover button{
+    background-color: #f1efef;
+    border-radius: 20px;
+
+}
+.resultados{
+    margin-bottom: 40px;
+    font-size: 15px;
+}
+.filtros{
+    display: flex;
+    float: left;
+    margin: 5px;
+    padding: 5px;
+}
+
+.Safe{
+    display: flex;
+    float: left;
+    margin: 5px;
+    padding: 5px;
+    width: 15px;
+ 
+}
+select{
+    border: none;
+    text-align: center;
+    font-size: 15px;
+
+}
+
+.line{
+    width: 100%;
+    height: 1px;
+    background-color: rgb(218, 216, 216);
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+body{
+font-family: Mulish;
+
+}
+
+.tabela{
+    margin-top: 10px;
+    justify-content: flex-start;
+    display: flex;
+    float: left;
+}
+table{
+    width: 500px;
+    height: 250px;
+    margin: 10px;
+    margin-left: 180px;
+    margin-bottom: -5000px;
+}
+
+ table strong {
+    font-size: 22px;
+}
+
+tbody tr{
+    margin-top: 20px;
+    font-size: 18px;
+   
+}
+
+tr td{
+    text-align: left; 
+    border-bottom: 1px solid  rgb(212, 208, 208);
+}
+.wiki{
+    margin-top: -230px;
+    float: left;
+    width: 400px;
+    height: 800px;
+    border-radius: 20px;
+    border: #dbd9d9 solid 1px;
+    margin-left: 900px;
+    font-size: 15px;
+    line-height: 25px;
+    padding-left: 10px;
+}
+
+.wiki h2{
+    margin-left: 0px;
+    margin: 1px;
+}
+
+.wiki img{
+    margin: 1px;
+    padding: 1px;
+    width: 100px;
+    height: 100px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.gira img{
+    float: left;
+    width: 180px;
+    height: 200px;
+}
+
+.flores img{
+    margin: 8px;
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.flores a {
+    margin: 20px;
+    width: 600px;
+
+}
+
+.viva{
+    display: block;
+    margin-right: 500px;
+    margin-left: 180px;
+   float: left; 
+   height: 250px;
+   width: 650px;
+   margin-top: 80px;
+
+}
+
+.viva img{
+    width: 123px;
+    height: 90px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin: 1px;
+    padding: 1px;
+}
+
+.giu{
+    float: left;
+    margin-left: 180px;
+    width: 600px;
+    margin-top: -300px;
+}
+
+.wikipe{
+    float: left;
+    margin-left: 180px;
+    width: 600px;
+    margin-top: -130px;
+   
+
+}
+
+.info{
+    margin-left: 180px;
+    width: 600px;
+}
+
+.significado{
+    margin-left: 180px;
+    width: 600px;
+}
+
+.pinterest{
+    margin-left: 180px;
+    width: 600px;
+}
+
+.freepik{
+    margin-left: 180px;
+    width: 600px;
+}
+
+.freepik img{
+    width: 90px;
+    height: 90px;
+    border-radius: 20px;
+    margin: 1px;
+    padding: 1px;
+}
+
+.lardocelar{
+    margin-left: 180px;
+    width: 600px;
+}
+
+h3{
+    color: rgb(5, 5, 150);
+}
+
+h2{
+    margin-left: 180px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.relacio{
+    width: 700px;
+    margin-left: 180px;
+    float: left;
+    display: flex;
+    flex-flow: wrap;
+}
+
+.relacio img{
+    width: 20px;
+    height: 20px;
+
+}
+
+.sign{
+    border-radius: 20px;
+    background-color: rgb(235, 240, 243);
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    margin: 10px;
+}
+
+.mensagem{
+    border-radius: 20px;
+    background-color: rgb(235, 240, 243);
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    margin: 10px;
+}
+
+.amizade{
+    border-radius: 20px;
+    background-color: rgb(235, 240, 243);
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    margin: 10px;
+}
+
+.espiri{
+    border-radius: 20px;
+    background-color: rgb(235, 240, 243);
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    margin: 10px;
+}
+
+.ganhar{
+    border-radius: 20px;
+    background-color: rgb(235, 240, 243);
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    margin: 10px;
+}
+
+.psico{
+    border-radius: 20px;
+    background-color: rgb(235, 240, 243);
+    width: 300px;
+    height: 50px;
+    text-align: center;
+    margin: 10px;
+}
+
+.google{
+    flex: wrap;
+    display: flex;
+    flex-direction: row;
+    font-size: 50px;
+    margin: 5px;
+    padding: 5px;
+    width: 600px;
+    height: 50px;
+   align-content: center;
+   margin-top: 20%;
+   margin-left: 350px;
+    
+}
+
+.G{
+    color: #4285f4;
+    font-size: 35;
+}
+
+.over{
+    margin-top: 10px;
+    font-size: 35px;
+    color: red;
+}
+
+.oama{
+    margin-top: 10px;
+    font-size: 35px;
+    float: left;
+    flex-direction: row;
+    display: flex;
+    color: yellow;
+}
+
+.l{
+    margin-top: 10px;
+    font-size: 35px;
+    float: left;
+    flex-direction: row;
+    display: flex;
+    color: green;
+}
+
+.gg{
+    margin-top: 10px;
+    font-size: 35px;
+    float: left;
+    flex-direction: row;
+    display: flex;
+    color: #4285f4;
+}
+
+.e{
+    margin-top: 10px;
+    font-size: 35px;
+    float: left;
+    flex-direction: row;
+    display: flex;
+    color: red;
+}
+
+.google a{
+    text-align: left;
+    font-size: 15px;
+    color: #4285f4;
+}
+
+.numeros{
+    padding: 1px;
+    margin: 1px;
+    margin-left: -173px;
+}
+
+body a{
+    text-decoration: none;
+    color: rgb(4, 4, 165);
+}
+
+body a:hover{
+    
+    text-decoration: underline;
+
+}
+
+footer{
+    width: 100%;
+    height: 150px;
+    background-color: #ebe9e9;
+    margin-top: 150px;
+}
+
+.dia{
+    height: 60px;
+    width: 1px;
+    background-color: #c0bebe;
+    margin-left: 180px ;
+    margin-bottom: -30px;
+
+}
+
+.verti{
+    width: 100%;
+    height: 1px;
+    background-color:  #c0bebe;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.rodape{
+    font-weight: normal;
+
+
+}
+
+.city{
+    margin-left: 20px;
+    display: flex;
+    float: left;
+    margin-bottom: 20px;
+}
+
+.country p{
+    display: flex;
+    float: left;
+    margin-left: 130px;
+    margin-top: 30px;
+    color: rgb(87, 86, 86);
+    
+}
+
+footer a{
+    color: rgb(99, 96, 96);
+    margin: 5px;
+    padding: 5px;
+    
+}
+
+.options{
+    margin-left: 120px;
+}
